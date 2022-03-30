@@ -2,6 +2,8 @@ import math
 
 Operation = input("please select input")
 
+#der er ikke sket noget
+
 while (Operation != "exit"):
 
 
